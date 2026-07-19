@@ -20,3 +20,7 @@ For the latest stable version:
 
 > [!Note]
 > You need an **authorized app** to do anything besides rich presence!
+
+> i am also planning on making this work on mobile
+
+# UNFINISHED, PLEASE DONT TRY TO USE YET
